@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Infinite-Scroll/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Infinite-Scroll/static/js/main.48e82651.chunk.js",
+    "main.js.map": "/Infinite-Scroll/static/js/main.48e82651.chunk.js.map",
+    "runtime-main.js": "/Infinite-Scroll/static/js/runtime-main.2b28b974.js",
+    "runtime-main.js.map": "/Infinite-Scroll/static/js/runtime-main.2b28b974.js.map",
+    "static/js/2.e3224184.chunk.js": "/Infinite-Scroll/static/js/2.e3224184.chunk.js",
+    "static/js/2.e3224184.chunk.js.map": "/Infinite-Scroll/static/js/2.e3224184.chunk.js.map",
+    "static/js/3.a5149f3f.chunk.js": "/Infinite-Scroll/static/js/3.a5149f3f.chunk.js",
+    "static/js/3.a5149f3f.chunk.js.map": "/Infinite-Scroll/static/js/3.a5149f3f.chunk.js.map",
+    "index.html": "/Infinite-Scroll/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Infinite-Scroll/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.e3224184.chunk.js.LICENSE.txt": "/Infinite-Scroll/static/js/2.e3224184.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b28b974.js",
+    "static/js/2.e3224184.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.48e82651.chunk.js"
+  ]
+}
