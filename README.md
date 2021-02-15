@@ -1,7 +1,7 @@
 串接 gitHub API 利用 Intersection Observer 來時做出無限滾動的效果
 
 ### [連結](https://impala8012.github.io/Infinite-Scroll/#/)
-![](https://i.imgur.com/pZOxIEV.gif)
+![](https://i.imgur.com/JX0v9Dw.gif)
 
 ## 功能介紹
 首頁：串接 GitHub API 來拿到自己的 Repositories 以及使用者的資訊
