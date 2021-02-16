@@ -10,7 +10,6 @@
 ## 使用技術與工具
 ### 前端框架
 - React：使用 Hooks 的形式建構
-- Redux-thunk：利用 Redux Middleware 來處理的非同步事件
 
 ### 套件
 - React Router：處理路由協助達到 SPA 效果
